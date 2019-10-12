@@ -26,7 +26,7 @@ TRS
 - [Clubhouse of the project](https://app.clubhouse.io)
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
-- ... any other documents/links you see need
+- [Client Website Mockup](https://vmcnamar.wixsite.com/mysite)
 
 ## **Code Repositories**
 
