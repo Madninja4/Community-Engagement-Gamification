@@ -1,23 +1,24 @@
-# CapstoneProjectTemplate /* Title of your project */
+# Community Engagement Gamification
 
 ## **Summary**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This web-hosted software will be a way to encourage community engagement with organizations and citizens in certain areas. Initiatives will be posted by users and organizations, and users will be able to share, donate, or volunteer at these initiatives, while tracking their statistics. This software will allow connections between organizations and universities, as well as communities that want to engage in more volunteer work.
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
+- Corbin Creedon
+- Gavin Taskey
+- Timothy Skinner
+- Michael Himes
 
 ## **Client Partner Information**
 
 ### *Company:*
-WHATEVER COMPANY or CORRESPONDENCE
+TRS
 
 ### *People:*
-- Jane Fonda
-- Jane Lynch
+- Florence May
+- Virginie McNamar
 
 ## **Links**
 
@@ -29,7 +30,5 @@ WHATEVER COMPANY or CORRESPONDENCE
 
 ## **Code Repositories**
 
-- [Mobile App - Android](https://www.android.com/)
-- [Php Backend](https://www.php.net/)
-- Others if more.
+
 
