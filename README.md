@@ -27,9 +27,9 @@ TRS
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
 - [Client Website Mockup](https://vmcnamar.wixsite.com/mysite)
-- [Code Repository](https://github.com/tms326/Betterflye)
 
 ## **Code Repositories**
 
+- [Main Repository](https://github.com/tms326/Betterflye)
 
 
