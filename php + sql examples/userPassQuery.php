@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "ass";
+$password = "pass";
 $dbname = "betterflye";
 
 // Create connection
