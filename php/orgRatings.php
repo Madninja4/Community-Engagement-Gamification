@@ -1,2 +1,0 @@
-Organization: Ball State - Rating: 1 - Review Text : Great Company, not sure where money is going though - reviewer:mike<br>Organization: Dan Inc. - Rating: 4 - Review Text : Great Company, not sure where money is going though - reviewer:mike<br>Organization: Dan Inc. - Rating: 1 - Review Text : Bad Company - reviewer:mallory<br>Organization: Ball State - Rating: 1 - Review Text : Horrific University - reviewer:mike<br>Organization: Dan Inc. - Rating: 4 - Review Text : Horrific University - reviewer:mike<br>
-
