@@ -1,4 +1,4 @@
-###Our deployement for public server
+###Our deployment for public server
 ####Requirements -- Linux server
 
 This guide uses Debian-based commands, replace them as needed for other distributions.
