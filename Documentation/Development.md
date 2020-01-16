@@ -23,10 +23,13 @@ Folder Structure:
 - We have the folders organized mainly by component type. For instance we have a page
 folder that contains all the html and php for each page. 
 We also have a folder named sql files which contains all of the files for the database. 
+- Auxiliary: Contains examples of querys, resources, and also guides.
 - Documentation Folder: will contain all documentation for the software including this documentation. 
 - Images Folder: Contains images used in the welcome page, the logo, etc. 
+- JS Folder: Contains all of the JS files.
 - Pages Folder: Contains code for each of the pages in the website (Welcome, Landing, Donations, and other pages).
-- PHP and SQL Examples Folder: Examples of getting certain info from the DB. 
+- PHP Folder: Contains handlers for all of the MySQLFunctions. 
 - SQL Files Folder: Contains all of the MYSQL DB code. 
 - Stylesheet Folder: Contains CSS files for Pages. 
-
+- Test Folder: Contains test files.
+- Vendor: Contains the phpmailer files.
