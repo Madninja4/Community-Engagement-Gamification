@@ -124,9 +124,17 @@ Current features of the system that users can access:
   3. Click manage organization and click on owned org.
   4. Click the name of org's reporting
   
-  - The ability to create organizations:
+- The ability to create organizations:
   1. Log in as shown above.
   2. Click organizations.
   3. Click create organization.
   4. Input all information and click Create Organization
+  
+  ### Badge Store
+  
+  - The ability to buy BB (betterflye bucks)
+  1. Log in as shown above.
+  2. Click badge store
+  3. Click buy bb and pick desired amount
+  4. User now has bb and are able to send badges
   
